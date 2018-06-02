@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="crawier:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cf5deca-bcd8-439e-bf58-391f6ebd7707" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CrawlerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/CrawlerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="78" column="51" selection-start-line="78" selection-start-column="51" selection-end-line="78" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lagou.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/Lagou.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="63" column="13" selection-start-line="55" selection-start-column="12" selection-end-line="63" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4238#4258#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaiduPacong.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/BaiduPacong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-53">
+              <caret line="49" column="218" selection-start-line="49" selection-start-column="218" selection-end-line="49" selection-end-column="218" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public static</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/CrawierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/Callback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/C.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mq-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/ContentBean.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/Lagou.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/Baidu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/CrawlerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annn/BaiduPacong.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/JavaWorkPath/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/JavaWorkPath/apache-maven-3.5.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ann Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ann Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="crawier_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="annn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Crawier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawier" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.annn" />
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BaiduPacong">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="BaiduPacong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.annn.BaiduPacong" />
+      <module name="crawier" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.annn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BaiduPacong.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crawier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.annn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.annn" />
+      <option name="MAIN_CLASS_NAME" value="com.annn.BaiduPacong" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CrawlerTest.lambdaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crawier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.annn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.annn" />
+      <option name="MAIN_CLASS_NAME" value="com.annn.CrawlerTest" />
+      <option name="METHOD_NAME" value="lambdaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CrawlerTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crawier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.annn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.annn" />
+      <option name="MAIN_CLASS_NAME" value="com.annn.CrawlerTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Lagou.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crawier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.annn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.annn" />
+      <option name="MAIN_CLASS_NAME" value="com.annn.Lagou" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CrawlerTest.test2" />
+      <item itemvalue="JUnit.CrawlerTest.lambdaTest" />
+      <item itemvalue="JUnit.Lagou.test1" />
+      <item itemvalue="JUnit.BaiduPacong.test" />
+      <item itemvalue="Application.BaiduPacong" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BaiduPacong" />
+        <item itemvalue="JUnit.BaiduPacong.test" />
+        <item itemvalue="JUnit.Lagou.test1" />
+        <item itemvalue="JUnit.CrawlerTest.test2" />
+        <item itemvalue="JUnit.CrawlerTest.lambdaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf5deca-bcd8-439e-bf58-391f6ebd7707" name="Default" comment="" />
+      <created>1526606334191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526606334191</updated>
+      <workItem from="1526606336103" duration="8568000" />
+      <workItem from="1526865205189" duration="733000" />
+      <workItem from="1526883153967" duration="2413000" />
+      <workItem from="1526969814907" duration="1283000" />
+      <workItem from="1526974461216" duration="3368000" />
+      <workItem from="1527766716062" duration="4106000" />
+      <workItem from="1527821021743" duration="6467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 02m 56s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 03m 55s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 05m 19s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 06m 16s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 09m 12s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 12m 55s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 13m 10s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 13m 41s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 15m 04s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaiduPacong_test - 2018.06.01 at 13h 16m 49s.xml">
+      <configuration name="BaiduPacong.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26938000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.20396146" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39939025" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969216" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32723576" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15845825" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Data View" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="1" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32969216" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info id="Capture Tool" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32969216" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.15458423" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Structure" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32969216" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/BushHyrax_EN-AU8373682343.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/DolomitesBikeRace_EN-AU10922620742.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/FalcoPeregrinus_EN-AU12306031452.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/SpringtimeinGiverny_EN-AU6804745113.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/OakTreeMaize_EN-AU10918567606.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/NamibFace_EN-AU6782882876.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/MontezumaSnowGeese_EN-AU9497504365.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ManateeMom_EN-AU9983570199.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Love_ZH-CN11474763511.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Kolonihavehus_EN-AU6388656996.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JavaWorkPath/LocalWarehouse/org/apache/activemq/activemq-all/5.15.3/activemq-all-5.15.3.jar!/org/springframework/jms/core/MessageCreator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mq-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/ContentBean.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="1866" column="32" selection-start-line="1866" selection-start-column="32" selection-end-line="1866" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#20077#20078#0" expanded="true" />
+            <element signature="e#20107#20108#0" expanded="true" />
+            <element signature="e#20141#20142#0" expanded="true" />
+            <element signature="e#20171#20172#0" expanded="true" />
+            <element signature="e#60556#60557#0" expanded="true" />
+            <element signature="e#60610#60611#0" expanded="true" />
+            <element signature="e#75749#75750#0" expanded="true" />
+            <element signature="e#75805#75806#0" expanded="true" />
+            <element signature="e#105926#105927#0" expanded="true" />
+            <element signature="e#105982#105983#0" expanded="true" />
+            <element signature="e#106464#106465#0" expanded="true" />
+            <element signature="e#106509#106510#0" expanded="true" />
+            <element signature="e#116667#116668#0" expanded="true" />
+            <element signature="e#116723#116724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/Baidu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790">
+          <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+          <folding>
+            <element signature="e#46031#46032#0" expanded="true" />
+            <element signature="e#46062#46063#0" expanded="true" />
+            <element signature="e#46110#46111#0" expanded="true" />
+            <element signature="e#46150#46151#0" expanded="true" />
+            <element signature="e#46185#46186#0" expanded="true" />
+            <element signature="e#46216#46217#0" expanded="true" />
+            <element signature="e#46264#46265#0" expanded="true" />
+            <element signature="e#46304#46305#0" expanded="true" />
+            <element signature="e#46335#46336#0" expanded="true" />
+            <element signature="e#46365#46366#0" expanded="true" />
+            <element signature="e#46408#46409#0" expanded="true" />
+            <element signature="e#46446#46447#0" expanded="true" />
+            <element signature="e#46480#46481#0" expanded="true" />
+            <element signature="e#46513#46514#0" expanded="true" />
+            <element signature="e#46562#46563#0" expanded="true" />
+            <element signature="e#46606#46607#0" expanded="true" />
+            <element signature="e#46636#46637#0" expanded="true" />
+            <element signature="e#46662#46663#0" expanded="true" />
+            <element signature="e#46700#46701#0" expanded="true" />
+            <element signature="e#46730#46731#0" expanded="true" />
+            <element signature="e#46769#46770#0" expanded="true" />
+            <element signature="e#46804#46805#0" expanded="true" />
+            <element signature="e#46860#46861#0" expanded="true" />
+            <element signature="e#46908#46909#0" expanded="true" />
+            <element signature="e#46947#46948#0" expanded="true" />
+            <element signature="e#46982#46983#0" expanded="true" />
+            <element signature="e#47038#47039#0" expanded="true" />
+            <element signature="e#47086#47087#0" expanded="true" />
+            <element signature="e#47128#47129#0" expanded="true" />
+            <element signature="e#47169#47170#0" expanded="true" />
+            <element signature="e#47234#47235#0" expanded="true" />
+            <element signature="e#47294#47295#0" expanded="true" />
+            <element signature="e#47334#47335#0" expanded="true" />
+            <element signature="e#47370#47371#0" expanded="true" />
+            <element signature="e#47428#47429#0" expanded="true" />
+            <element signature="e#47478#47479#0" expanded="true" />
+            <element signature="e#47517#47518#0" expanded="true" />
+            <element signature="e#47544#47545#0" expanded="true" />
+            <element signature="e#47592#47593#0" expanded="true" />
+            <element signature="e#47624#47625#0" expanded="true" />
+            <element signature="e#51056#51057#0" expanded="true" />
+            <element signature="e#51093#51094#0" expanded="true" />
+            <element signature="e#51141#51142#0" expanded="true" />
+            <element signature="e#51185#51186#0" expanded="true" />
+            <element signature="e#51226#51227#0" expanded="true" />
+            <element signature="e#51267#51268#0" expanded="true" />
+            <element signature="e#51323#51324#0" expanded="true" />
+            <element signature="e#51375#51376#0" expanded="true" />
+            <element signature="e#51414#51415#0" expanded="true" />
+            <element signature="e#51453#51454#0" expanded="true" />
+            <element signature="e#51505#51506#0" expanded="true" />
+            <element signature="e#51553#51554#0" expanded="true" />
+            <element signature="e#51593#51594#0" expanded="true" />
+            <element signature="e#51633#51634#0" expanded="true" />
+            <element signature="e#51687#51688#0" expanded="true" />
+            <element signature="e#51737#51738#0" expanded="true" />
+            <element signature="e#51783#51784#0" expanded="true" />
+            <element signature="e#51829#51830#0" expanded="true" />
+            <element signature="e#51895#51896#0" expanded="true" />
+            <element signature="e#51957#51958#0" expanded="true" />
+            <element signature="e#51993#51994#0" expanded="true" />
+            <element signature="e#52032#52033#0" expanded="true" />
+            <element signature="e#52081#52082#0" expanded="true" />
+            <element signature="e#52129#52130#0" expanded="true" />
+            <element signature="e#52168#52169#0" expanded="true" />
+            <element signature="e#52207#52208#0" expanded="true" />
+            <element signature="e#52259#52260#0" expanded="true" />
+            <element signature="e#52307#52308#0" expanded="true" />
+            <element signature="e#52342#52343#0" expanded="true" />
+            <element signature="e#52380#52381#0" expanded="true" />
+            <element signature="e#52427#52428#0" expanded="true" />
+            <element signature="e#52473#52474#0" expanded="true" />
+            <element signature="e#52510#52511#0" expanded="true" />
+            <element signature="e#52547#52548#0" expanded="true" />
+            <element signature="e#52595#52596#0" expanded="true" />
+            <element signature="e#52639#52640#0" expanded="true" />
+            <element signature="e#52677#52678#0" expanded="true" />
+            <element signature="e#52715#52716#0" expanded="true" />
+            <element signature="e#52765#52766#0" expanded="true" />
+            <element signature="e#52811#52812#0" expanded="true" />
+            <element signature="e#52853#52854#0" expanded="true" />
+            <element signature="e#52895#52896#0" expanded="true" />
+            <element signature="e#52953#52954#0" expanded="true" />
+            <element signature="e#53007#53008#0" expanded="true" />
+            <element signature="e#53050#53051#0" expanded="true" />
+            <element signature="e#53093#53094#0" expanded="true" />
+            <element signature="e#53153#53154#0" expanded="true" />
+            <element signature="e#53209#53210#0" expanded="true" />
+            <element signature="e#53242#53243#0" expanded="true" />
+            <element signature="e#53278#53279#0" expanded="true" />
+            <element signature="e#53321#53322#0" expanded="true" />
+            <element signature="e#53363#53364#0" expanded="true" />
+            <element signature="e#53397#53398#0" expanded="true" />
+            <element signature="e#53434#53435#0" expanded="true" />
+            <element signature="e#53479#53480#0" expanded="true" />
+            <element signature="e#53523#53524#0" expanded="true" />
+            <element signature="e#53558#53559#0" expanded="true" />
+            <element signature="e#53593#53594#0" expanded="true" />
+            <element signature="e#53637#53638#0" expanded="true" />
+            <element signature="e#53677#53678#0" expanded="true" />
+            <element signature="e#53711#53712#0" expanded="true" />
+            <element signature="e#53748#53749#0" expanded="true" />
+            <element signature="e#53793#53794#0" expanded="true" />
+            <element signature="e#53837#53838#0" expanded="true" />
+            <element signature="e#53876#53877#0" expanded="true" />
+            <element signature="e#53915#53916#0" expanded="true" />
+            <element signature="e#53967#53968#0" expanded="true" />
+            <element signature="e#54015#54016#0" expanded="true" />
+            <element signature="e#54055#54056#0" expanded="true" />
+            <element signature="e#54095#54096#0" expanded="true" />
+            <element signature="e#54149#54150#0" expanded="true" />
+            <element signature="e#54199#54200#0" expanded="true" />
+            <element signature="e#54232#54233#0" expanded="true" />
+            <element signature="e#54265#54266#0" expanded="true" />
+            <element signature="e#54305#54306#0" expanded="true" />
+            <element signature="e#54341#54342#0" expanded="true" />
+            <element signature="e#54374#54375#0" expanded="true" />
+            <element signature="e#54407#54408#0" expanded="true" />
+            <element signature="e#54447#54448#0" expanded="true" />
+            <element signature="e#54483#54484#0" expanded="true" />
+            <element signature="e#54516#54517#0" expanded="true" />
+            <element signature="e#54549#54550#0" expanded="true" />
+            <element signature="e#54589#54590#0" expanded="true" />
+            <element signature="e#54625#54626#0" expanded="true" />
+            <element signature="e#54673#54674#0" expanded="true" />
+            <element signature="e#54721#54722#0" expanded="true" />
+            <element signature="e#54791#54792#0" expanded="true" />
+            <element signature="e#54857#54858#0" expanded="true" />
+            <element signature="e#54900#54901#0" expanded="true" />
+            <element signature="e#54943#54944#0" expanded="true" />
+            <element signature="e#55003#55004#0" expanded="true" />
+            <element signature="e#55059#55060#0" expanded="true" />
+            <element signature="e#55098#55099#0" expanded="true" />
+            <element signature="e#55140#55141#0" expanded="true" />
+            <element signature="e#55195#55196#0" expanded="true" />
+            <element signature="e#55249#55250#0" expanded="true" />
+            <element signature="e#55286#55287#0" expanded="true" />
+            <element signature="e#55326#55327#0" expanded="true" />
+            <element signature="e#55377#55378#0" expanded="true" />
+            <element signature="e#55427#55428#0" expanded="true" />
+            <element signature="e#55458#55459#0" expanded="true" />
+            <element signature="e#55492#55493#0" expanded="true" />
+            <element signature="e#55531#55532#0" expanded="true" />
+            <element signature="e#55569#55570#0" expanded="true" />
+            <element signature="e#55613#55614#0" expanded="true" />
+            <element signature="e#55657#55658#0" expanded="true" />
+            <element signature="e#55719#55720#0" expanded="true" />
+            <element signature="e#55777#55778#0" expanded="true" />
+            <element signature="e#55821#55822#0" expanded="true" />
+            <element signature="e#55865#55866#0" expanded="true" />
+            <element signature="e#55927#55928#0" expanded="true" />
+            <element signature="e#55985#55986#0" expanded="true" />
+            <element signature="e#56032#56033#0" expanded="true" />
+            <element signature="e#56079#56080#0" expanded="true" />
+            <element signature="e#56147#56148#0" expanded="true" />
+            <element signature="e#56211#56212#0" expanded="true" />
+            <element signature="e#56254#56255#0" expanded="true" />
+            <element signature="e#56297#56298#0" expanded="true" />
+            <element signature="e#56357#56358#0" expanded="true" />
+            <element signature="e#56413#56414#0" expanded="true" />
+            <element signature="e#56465#56466#0" expanded="true" />
+            <element signature="e#56517#56518#0" expanded="true" />
+            <element signature="e#56710#56711#0" expanded="true" />
+            <element signature="e#56754#56755#0" expanded="true" />
+            <element signature="e#56813#56814#0" expanded="true" />
+            <element signature="e#56871#56872#0" expanded="true" />
+            <element signature="e#56907#56908#0" expanded="true" />
+            <element signature="e#56943#56944#0" expanded="true" />
+            <element signature="e#56989#56990#0" expanded="true" />
+            <element signature="e#57031#57032#0" expanded="true" />
+            <element signature="e#57069#57070#0" expanded="true" />
+            <element signature="e#57107#57108#0" expanded="true" />
+            <element signature="e#57157#57158#0" expanded="true" />
+            <element signature="e#57203#57204#0" expanded="true" />
+            <element signature="e#57236#57237#0" expanded="true" />
+            <element signature="e#57269#57270#0" expanded="true" />
+            <element signature="e#57309#57310#0" expanded="true" />
+            <element signature="e#57345#57346#0" expanded="true" />
+            <element signature="e#57378#57379#0" expanded="true" />
+            <element signature="e#57411#57412#0" expanded="true" />
+            <element signature="e#57451#57452#0" expanded="true" />
+            <element signature="e#57487#57488#0" expanded="true" />
+            <element signature="e#57523#57524#0" expanded="true" />
+            <element signature="e#57559#57560#0" expanded="true" />
+            <element signature="e#57605#57606#0" expanded="true" />
+            <element signature="e#57647#57648#0" expanded="true" />
+            <element signature="e#57690#57691#0" expanded="true" />
+            <element signature="e#57733#57734#0" expanded="true" />
+            <element signature="e#57793#57794#0" expanded="true" />
+            <element signature="e#57849#57850#0" expanded="true" />
+            <element signature="e#57890#57891#0" expanded="true" />
+            <element signature="e#57931#57932#0" expanded="true" />
+            <element signature="e#57987#57988#0" expanded="true" />
+            <element signature="e#58039#58040#0" expanded="true" />
+            <element signature="e#58079#58080#0" expanded="true" />
+            <element signature="e#58119#58120#0" expanded="true" />
+            <element signature="e#58173#58174#0" expanded="true" />
+            <element signature="e#58223#58224#0" expanded="true" />
+            <element signature="e#58267#58268#0" expanded="true" />
+            <element signature="e#58311#58312#0" expanded="true" />
+            <element signature="e#58373#58374#0" expanded="true" />
+            <element signature="e#58431#58432#0" expanded="true" />
+            <element signature="e#58469#58470#0" expanded="true" />
+            <element signature="e#58507#58508#0" expanded="true" />
+            <element signature="e#58557#58558#0" expanded="true" />
+            <element signature="e#58603#58604#0" expanded="true" />
+            <element signature="e#58645#58646#0" expanded="true" />
+            <element signature="e#58687#58688#0" expanded="true" />
+            <element signature="e#58745#58746#0" expanded="true" />
+            <element signature="e#58799#58800#0" expanded="true" />
+            <element signature="e#58854#58855#0" expanded="true" />
+            <element signature="e#58895#58896#0" expanded="true" />
+            <element signature="e#58965#58966#0" expanded="true" />
+            <element signature="e#59017#59018#0" expanded="true" />
+            <element signature="e#59369#59370#0" expanded="true" />
+            <element signature="e#59414#59415#0" expanded="true" />
+            <element signature="e#59466#59467#0" expanded="true" />
+            <element signature="e#59518#59519#0" expanded="true" />
+            <element signature="e#59560#59561#0" expanded="true" />
+            <element signature="e#59606#59607#0" expanded="true" />
+            <element signature="e#59660#59661#0" expanded="true" />
+            <element signature="e#59714#59715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/Lagou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="63" column="13" selection-start-line="55" selection-start-column="12" selection-end-line="63" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4238#4258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/CrawlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="78" column="51" selection-start-line="78" selection-start-column="51" selection-end-line="78" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=6764605,2094537109&amp;fm=214&amp;gp=0.jpg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=7421840,4182499926&amp;fm=214&amp;gp=0.jpg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=6764605,2094537109&amp;fm=214&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=1313028186,680554011&amp;fm=214&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=75351962,3943976772&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=442175101,4054828868&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=619543633,1966260637&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=1642702903,1895459834&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=1457520484,1292312627&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=1408610869,95299203&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=782543303,2096096577&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/JavaWorkPath/LocalWarehouse/com/squareup/okhttp3/okhttp/3.9.0/okhttp-3.9.0.jar!/okhttp3/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="507" selection-start-line="507" selection-end-line="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="2034" selection-start-line="2034" selection-end-line="2034" />
+          <folding>
+            <element signature="e#83250#83251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="e#8081#8082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=157022033,4107728863&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=520986091,1951748964&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=160262383,4294568336&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=226786656,873805686&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=3212758812,372705869&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=205221455,2161085118&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=386117365,1878897320&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=907907750,66769627&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=1451514764,1969571982&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=2192239766,2061735815&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=3060495975,1271140535&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/u=3741168489,803025142&amp;fm=27&amp;gp=0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annn/BaiduPacong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="49" column="218" selection-start-line="49" selection-start-column="218" selection-end-line="49" selection-end-column="218" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>crawier:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>angular</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>crawier</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

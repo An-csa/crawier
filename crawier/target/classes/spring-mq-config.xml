@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:amq="http://activemq.apache.org/schema/core"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://activemq.apache.org/schema/core http://activemq.apache.org/schema/core/activemq-core.xsd">
+
+    <amq:connectionFactory
+        id="amqConnectionFactory"
+        userName="admin"
+        password="admin"
+        brokerURL="tcp://localhost:61616"/>
+    <bean class="org.springframework.jms.connection.CachingConnectionFactory"
+          id="connectionFactory">
+        <constructor-arg ref="amqConnectionFactory"/>
+        <property name="sessionCacheSize" value="100"/>
+    </bean>
+    <bean class="org.apache.activemq.command.ActiveMQQueue"
+          id="mqQueue">
+        <constructor-arg value="com.annn.mq.MESSAGE_SEND"/>
+    </bean>
+    <bean class="org.springframework.jms.core.JmsTemplate"
+          id="jmsTemplate">
+        <property name="connectionFactory" ref="connectionFactory"/>
+        <property name="defaultDestination" ref="mqQueue"/>
+        <property name="receiveTimeout" value="1000"/>
+    </bean>
+
+</beans>
